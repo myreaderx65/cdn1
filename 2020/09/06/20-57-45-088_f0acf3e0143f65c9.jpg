@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<head>
+	<!-- head-common-bootstrap -->
+     <meta charset="utf-8">
+     <meta name="generator" content="http://www.typepad.com/" />
+     <meta name="keywords" content="emc, EMC Corporation, Information, Storage, Information Protection, Backup, Recovery, Archiving, Clariion, Symmetrix, V-Max, NetWorker, Centera, Celerra, RSA, VCE, Acadia, Cisco, Mozy, Decho, Retrospect, Ionix, Atmos, V-Plex, Data Domain, DDR, Avamar" />
+     <link rel="canonical" href="https://www.storagezilla.xyz/storagezilla/" />
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta property="og:title" content="Mark Twomey" />
+<meta property="og:site_name" content="Mark Twomey" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://www.storagezilla.xyz/storagezilla/" />
+<meta property="og:description" content="" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up7.typepad.com/6a00d834519dbf69e20133eda57a25970b-220si" />
+
+
+     <!-- Custom fonts for this template -->
+
+    <!-- Bootstrap core CSS -->
+    <link href="/.shared/themes/common/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Bootstrap bridge -->
+    <link href="/.shared/themes/common/bootstrap/css/bootstrap-bridge.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="https://www.storagezilla.xyz/storagezilla/styles.css?v=6" type="text/css" media="screen" />
+    <style>.navbar-header, .nav { display:block !important; }</style>
+
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+        <link rel="alternate" type="application/atom+xml" title="Posts on 'Mark Twomey' (Atom)" href="https://www.storagezilla.xyz/storagezilla/atom.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Mark Twomey' (RSS 1.0)" href="https://www.storagezilla.xyz/storagezilla/index.rdf" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Mark Twomey' (RSS 2.0)" href="https://www.storagezilla.xyz/storagezilla/rss.xml" />
+
+    <script src="//code.jquery.com/jquery.js"></script>
+
+        <script type="text/javascript">
+                var TPApp = {};
+                TPApp.app_uri = "https://www.typepad.com/";
+        </script>
+        <script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d834519dbf69e200d83451aa7b69e2');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+
+
+	<title>Mark Twomey</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d834519dbf69e200d83451aa7b69e2" />
+	
+        
+</head>
+
+
+
+<body class="layout-two-column-right index">
+	
+	<div id="container" class="container">
+		<div id="container-inner" class="pkg">
+			
+        	<div class="row">
+     
+
+
+<a id="home"></a>
+   
+
+              <div id="banner" class="jumbotron">
+                <h1><a href="https://www.storagezilla.xyz/storagezilla/" accesskey="1">Mark Twomey</a></h1>
+                <h2></h2>
+              </div>
+
+     
+     
+      <div id="autocollapse" class="navbar navbar-default navbar-fixed-top">
+
+<div class="navbar-inner">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+          </button>
+         <a class="navbar-brand" href="https://www.storagezilla.xyz/storagezilla/">Home</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+<li><a href="http://storagezilla.typepad.com/storagezilla/archives.html">Archives</a></li>
+<li><a href="http://profile.typepad.com/storagezilla">Profile</a></li>
+<li><a href="http://storagezilla.typepad.com/storagezilla/atom.xml">Subscribe</a></li>
+
+          </ul><!-- end main navbar -->
+        </div><!--/.nav-collapse-->
+</div><!--/.navbar-inner-->
+
+      </div><!--/.navbar-->
+
+     
+
+
+
+                        <div id="pagebody">
+                        
+
+                                <div id="pagebody-inner" class="pkg">
+                                        <div id="alpha" class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                                                <div id="alpha-inner" class="pkg">
+                                                        
+
+
+
+
+
+<!-- CAROUSEL POSTS -->
+
+
+<!-- entry list sticky -->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+
+
+
+    <h2 class="date-header">September 06, 2020</h2>
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e20263e962c80e200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/09/eccentric-orbits-the-iridium-story.html">Eccentric Orbits: The Iridium Story</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>This is a brilliant story well told. In <a href="https://www.amazon.co.uk/Eccentric-Orbits-Iridium-John-Bloom/dp/0802126782">Eccentric Orbits</a> a retiree goes to bankruptcy court and writes a personal check as a deposit on the Iridium satellite constellation. Cost of Iridium development to Motorola and its partners? $6 Billion+</p>
+<p>The check was for $1.5 Million.</p>
+<p>This happens in the latter half of the book but when I read it was a highpoint. It takes fortitude to put your own money in when no investor will. The retiree, Dan Colussy, was the former CEO of Pan Am. Colussy saw the potential of Iridium at the same time its creator, Motorola, was doing its utmost to decommission the constellation and burn the satellites up in the atmosphere. Iridium was Bob Galvin’s dream, Motorola would no longer sell technology to tele-communication operators, it would become the first global operator.</p>
+<p>While Iridium was the father’s dream it was not his son’s. Upon his father’s retirement Chris Galvin ascended to the role of CEO to find Motorola’s cash cow mobile handset business under siege by Nokia. He reacted by attempting to refocus the company on the consumer market. Business units were shuttered or sold off and you know how that strategy turned out. Motorola as a US consumer electronics giant no longer exists.</p>
+<p>While what remains of Moto is a shadow of what it once was, Iridium went from a launch day where no one made any satellite calls to having parts of its network in the sky hammered with calls as service people around the world call home for Mother’s Day.</p>
+<p>The original Iridium constellation was a technological marvel designed by three of Motorola’s smartest weirdos, Bary Bertiger, Ray Leopold and Ken Peterson. It was put into orbit by a brilliant shitkicker, Dannie Stamp. How it was created and why it was a marvel is discussed in detail but the bulk of the book covers the battle to save the constellation from being burned up.</p>
+<p>Colussy starts out alone and with no financial backing but finds allies in the Pentagon, the White House and in the intelligence community. Raising money is an ongoing problem but navigating obstacles becomes easier as he picks up compatriots.</p>
+<p>A CIA spook shows up to his first Pentagon meeting and starts negotiating with the assembled uniforms on Colussy’s behalf. Then the spook starts showing up at other meetings with other people having not been told by Colussy about those meetings. Being smart enough not to gaze behind the curtain Colussy takes the hint and the spook is invited to officially join his team. Someone in an agency building somewhere decided Dan Colussy was the best option to keep Iridium flying. They sent him someone else to help make that happen.</p>
+<p>There are many obstacles to Colussy&#39;s team gaining control of Iridium and a number of them come back again and again. Among the collection of existing satellite providers and bellicose telecommunication billionaires it is Motorola which emerges as the primary antagonist. Letting Iridium burn becomes the default corporate position, the company threatening to initiate the deorbit sequence regularly. Motorola becomes so unruly to deal with that the US government refuses to sign any contracts with the new Iridium if Motorola has any involvement with the new company.</p>
+<p>Colussy and his patchwork team of investors do win the battle for Iridium and he saves the constellation from destruction. The reborn company goes through numerous CEOs until they find one that sticks. Eventually it becomes the going concern with a profitable future that Dan Colussy could see when he was retired and playing with a first generation handset at his house.</p>
+<p>It was a hell of a journey to get there.</p>
+<p><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e962ca32200b-pi"><img alt="Iridium11" class="asset  asset-image at-xid-6a00d834519dbf69e20263e962ca32200b img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e962ca32200b-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Iridium11" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 02:49 AM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/09/eccentric-orbits-the-iridium-story.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F09%2Feccentric-orbits-the-iridium-story.html&text=Eccentric%20Orbits%3A%20The%20Iridium%20Story" target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F09%2Feccentric-orbits-the-iridium-story.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">September 05, 2020</h2>
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e20263e9627a6b200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/09/oathbringer-book-3-of-the-stormlight-archive.html">Oathbringer. Book 3 of the Stormlight Archive</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Brandon Sanderson writes 400 pages of story across a 1233 page book. I pulled this off the unread pile last week knowing that has been the case with the first two books in his Stormlight series and it continues in the third, <a href="https://www.amazon.co.uk/Oathbringer-Stormlight-Archive-Book-Three-ebook/dp/B010PQAUH6/ref=sr_1_1?dchild=1&amp;keywords=oathbringer&amp;qid=1599264060&amp;sr=8-1">Oathbringer</a>.</p>
+<p>This is planned to be a ten novel series and I’ll admit that in the middle of each one I start considering the opportunity cost of finishing the latest book and the series as a whole. That said the books do end strongly, he wants you to pick up the next one. When he is on Sanderson writes compelling action sequences but the intervals between those drag.</p>
+<p>It’s a rich fantasy universe but you’re reading it as he’s fleshing it out and there’s much I don’t need to know. I don’t find the protagonists relatable, there is an anti-villain I do find relatable so anytime he’s lucid I know things are going to pick up.</p>
+<p>As Sanderson is so prolific the next doorstopper instalment of this series is due in November. Will I read it? Yes. Will I ask myself why I’m still reading it before I hit the halfway point? Also yes.</p>
+<p><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e9627a42200b-pi"><img alt="Oathbringer1" class="asset  asset-image at-xid-6a00d834519dbf69e20263e9627a42200b img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e9627a42200b-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Oathbringer1" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 12:59 AM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/09/oathbringer-book-3-of-the-stormlight-archive.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F09%2Foathbringer-book-3-of-the-stormlight-archive.html&text=Oathbringer.%20Book%203%20of%20the%20Stormlight..." target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F09%2Foathbringer-book-3-of-the-stormlight-archive.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">August 19, 2020</h2>
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e2026be40a002e200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/fame-in-the-20th-century.html">Fame in the 20th Century</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Clive James was old when I was young. A man who smoked so many cigarettes per day you would question whether he trusted any air he could not see. Even when seated he looked stooped. A damp sack of flour with an Australian accent.</p>
+<p>Sometimes the sack of flour wore a tuxedo jacket and sometimes it wore a suit. Tuxedo or suit the cut never looked right on TV. He had the body shape of a Bolshevik leader. Take away the impish smile and he looked like he would have had a good chance to be elected to the chairmanship of the Soviet Union after Lenin dropped dead.</p>
+<p>But he had the smile and that look, and it made him a better broadcaster.</p>
+<p>My plan to do something today that did not involve reading a book, anything at all, hit a snag as the outer edge of Storm Ellen battered us with rain showers and blanketed us with fog. The weather service reliably informs me that disruptive and potentially damaging winds are inbound as the storm makes landfall. Oh goody.</p>
+<p>Looking for a Plan B that did not involve my buttocks meeting the reading chair once again, I noticed a Clive James book in the unread pile and remembered that I saw one episode of James’s “<a href="https://www.amazon.co.uk/Fame-20th-Century-Clive-James/dp/056336274X/ref=sr_1_1?dchild=1&amp;keywords=Fame+in+the+20th+century&amp;qid=1597872690&amp;sr=8-1">Fame in the 20<sup>th</sup> Century</a>” back in the 90s and never completed the series. So today was the day I did that. Broadcast in 1993 and covering 250 people across the twentieth century James grapples with fame and the rise of the celebrity. His quips are fast, his barbs are deep, and his analysis is sharp.</p>
+<p>He points out that early in the 1900s people were famous and the advent of mass media did nothing to increase their fame. Then fame and celebrity became a profession and elevated those which it probably should not have. You may be disgusted with reality television or it may be a guilty pleasure, but it is not anything new. Marie Curie was famous, but she was not a reality star. Elizabeth Taylor was famous, and she most certainly was.</p>
+<p>Some of the film clips here are fascinating and well curated. The licensing requirements alone prevents a rerelease. The conclusion of the series is glum but has a ring of truth. For the people to whom fame is not a profession, those regular people who James refers to as “amateur actors”, fame is like an Aztec human sacrifice. Paraded and fêted for a while but it ends with the crowd cutting the subject’s heart out. Those who are famous are there for our use and the most they can hope for is that we will use them well.</p>
+<p>Watching the series, I realised that I liked Clive James because he had an approachable intellect. His body of knowledge was deep and wide, and his brain seemed to operate faster than everyone else’s but he took the time to have a conversation with his audience. A conversation of equals. I hope at the end of his life he felt that his audience had used him well.</p>
+<p><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e2026bde8b3760200c-pi"><img alt="Fame11" class="asset  asset-image at-xid-6a00d834519dbf69e2026bde8b3760200c img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e2026bde8b3760200c-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Fame11" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 10:38 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/08/fame-in-the-20th-century.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Ffame-in-the-20th-century.html&text=Fame%20in%20the%2020th%20Century" target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Ffame-in-the-20th-century.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">August 18, 2020</h2>
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e20263e95d8f6b200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/samsung-rising.html">Samsung Rising</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Another staycation day, another book. This book opens with exploding Galaxy 7s and Samsung’s paralysis, evasion, deception, and eventual recognition of a dangerous flaw in their flagship handset. Imperial rulers prefer to tell you what the truth is and Samsung’s opinion at the time of the burning handsets was that there was no issue. It was just the pro-Apple press stirring up trouble for them.</p>
+<p>Imperial is accurate when describing the management of Samsung. In <a href="https://www.amazon.co.uk/Samsung-Rising-secretive-company-conquering/dp/075355481X/ref=sr_1_1?dchild=1&amp;keywords=samsung+rising&amp;qid=1597767580&amp;sr=8-1">Samsung Rising</a> the author does a good job of examining the political and dynastic intrigue of an organisation known locally as the Republic of Samsung. It&#39;s a Republic in name but a monarchy in operation. Corporatism is a cornerstone of South Korea, members of the leading chaebol (large family owned business conglomerates that dominate Korean industry) routinely finding themselves dragged through the courts only to have sentences commuted and pardons issued. The brand name corporations that they control being symbols of national pride to regular people.</p>
+<p>South Korea’s economic success is a product of the chaebol working hand in glove with the government of the day. In Samsung’s case its start goes back to the company’s granite faced founder, Lee Byung-chul. Having lived through Japanese colonialism in Korea, B.C. took inspiration from the Japanese zaibatsu companies. The post-war economic miracle economies of Japan and Germany were South Korea’s template for industrial development. While everyone else was trying to copy the United States, B.C. ensured that Samsung would be a family controlled vertically integrated monopoly pervasive throughout South Korean life. He would import the best ideas from Japan and Germany, then make them Korean.</p>
+<p>Betting big on semiconductors B.C. looked to rapidly scale Samsung Electronics. During the PC revolution of the 1980s Samsung Electronics looked like an also-ran but Steve Jobs showed up on its doorstep looking for memory chips for the Dynabook concept (A tablet computer). This was the beginning of the long and tortured relationship between Samsung and Apple that continues to this day. Samsung being both a key supplier for the iPhone and one of its most dangerous rivals with their Galaxy line of handsets.</p>
+<p>The development of Samsung’s Galaxy forms the backbone of the book. Samsung&#39;s ongoing failure to grasp software development and the need of &quot;The Tower&quot;, the brain of the Samsung octopus, to control every aspect from the top down being covered in detail. It is a compelling read. There is a horrific sequence halfway through Samsung Rising where the company’s US marketing team are summoned to South Korea for a Samsung global marketing meeting. The small, by Samsung standards, and unruly marketing team from Texas had been sticking it to Apple and carving out the Galaxy brand in the US as the defining line of Android handsets. They expected to be recognised for their work.</p>
+<p>Recognised they were. The US team was asked to stand, and their Korean leadership told everyone in the room to clap for the US team as a sign of encouragement because they were the only group present that was failing the company. Every metric said otherwise with customer sentiment and sales of Galaxy handsets soaring in the US, but the message was clear. You do not shine brighter than the imperial court back at the South Korean HQ.</p>
+<p>This was a good read about a company whose internal operation I knew nothing about. Samsung has stumbled badly during their last dynastic transition of power from father to son but it would be a mistake to underestimate them.</p>
+<p><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e2026be409a8b7200d-pi"><img alt="Samsung11" class="asset  asset-image at-xid-6a00d834519dbf69e2026be409a8b7200d img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e2026be409a8b7200d-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Samsung11" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 05:24 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/08/samsung-rising.html">Permalink</a>
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Fsamsung-rising.html&text=Samsung%20Rising" target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Fsamsung-rising.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">August 17, 2020</h2>
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e20263e95d4803200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/im-thinking-of-ending-things.html">I’m Thinking of Ending Things</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>The weather today has been abominable so I finished the latest staycation book much sooner than I had expected. The problem I am now faced with is that <a href="https://www.amazon.co.uk/Thinking-Ending-Things-Iain-Reid/dp/1911231235/ref=sr_1_1?crid=QFLUJQXOYSZX&amp;dchild=1&amp;keywords=im+thinking+of+ending+things&amp;qid=1597683334&amp;sprefix=I%27m+thinking+%2Caps%2C141&amp;sr=8-1">&quot;I’m Thinking of Ending Things&quot;</a> is a psychological thriller/horror novel that is built on one twist. If I discuss the twist the book becomes pointless. Even an attempt to discuss it in a tangential way would cause the novel to diffuse into the air. So I will avoid it entirely.<span class="Apple-converted-space">&#0160;</span></p>
+<p>Like all good psychological thrillers the book begins by making you uncomfortable from the start. There is nothing gruesome here, things just feel distorted and that distortion is unsettling. You keep waiting for the floor to drop out from under the female protagonist and for things to start going wrong. You know it is coming and in a way she does too. It’s just a matter of when and how.</p>
+<p>The majority of the book is focused on a girlfriend and boyfriend having conversations during a road trip to the farm of the boyfriend’s parents. It is dark and snowing, the cold outside the car is oppressive and the landscape at night time narrows to a point surrounding their vehicle. The conversations they have are intellectual, but he is a know-it-all and more than once I recoiled the way she does when their conversations take a negative turn.</p>
+<p>As a reader we get extra contextual information, we are privy to the female protagonist’s internal monologue. She has been in this relationship for a number of weeks and she is not convinced it is going to work out. She is thinking of ending things. Were I in her position I would have already.</p>
+<p>Looking at him as he is driving she considers his flaws. Flaws anyone would discover were they to make a life with another person. She wonders what it would be like to listen to the same person digest food for years to come. After sex she observes his body with detachment, noticing details that make him less attractive to her. The odds are good that this relationship is going nowhere.</p>
+<p>Right now the realtionship is taking her to his parents farm and on the way we learn she has been keeping a secret from him. She&#39;s getting phone calls late at night, the caller only leaves messages. Not abusive messages but strange ones. The caller starts leaving her messages on the commute and the story most forward from there.</p>
+<p>With any fiction book the bottom line of a review is if the juice was worth the squeeze? Was it worth the reading time spent? In this case I would say yes. I did not find the denouement to be revelatory but it was an uncomfortable story that was written in an engaging way.<span class="Apple-converted-space">&#0160;</span></p>
+<p>Would I sit down and read it again?</p>
+<p>Probably not.</p>
+<p><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e95d48eb200b-pi"><img alt="EndingThings1" class="asset  asset-image at-xid-6a00d834519dbf69e20263e95d48eb200b img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e95d48eb200b-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="EndingThings1" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 05:58 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/08/im-thinking-of-ending-things.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.storagezilla.xyz/storagezilla/2020/08/im-thinking-of-ending-things.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Fim-thinking-of-ending-things.html&text=I%E2%80%99m%20Thinking%20of%20Ending%20Things" target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Fim-thinking-of-ending-things.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e2026bde8a66ef200c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/wildflower.html">Wildflower</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Drew Barrymore is Harley Quinn if Harley Quinn decided she wanted two children and a house filled with pets. After the slog of yesterday&#39;s staycation book it was time to breeze through something and Barrymore’s memoir <a href="https://www.amazon.co.uk/Wildflower-Drew-Barrymore/dp/0753557096/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1597625706&amp;sr=1-3">“Wildflower”</a> proved to be a breezy and sometimes funny read.</p>
+<p>Her high energy humor aside, there are sharp edges here. She recounts several asshole stunts that will make you cringe, they now make her cringe, but scattered in between these are examples of how different her situation was. Hollywood having thrown her away, there is a memory of her spying on people at the laundromat so she could learn how to wash and dry her clothes. Ruining them she drags the sodden bleach stained mess back to her dump of an apartment, where she was living alone on a diet of take-out meals and cigarettes. Despondent, she recognises that she is a school dropout who does not know how to do anything and for all intents and purposes her career as an actress is over. She was fourteen.</p>
+<p>There is a sadness in that chapter that drives her forward in many of the others. She slowly and carefully rebuilds her shattered career, assembles a family of friends, starts reading voraciously and over achievement in cooking and domesticity becomes a driving ambition. I would not be surprised if bedsheets in the Barrymore house are changed three times a week and any meal that comes out of the microwave for dinner is seen as a personal affront.</p>
+<p>There is an insight close to the halfway point that to me explains both why she wrote the book and why it is written in the anecdotal non-linear fashion that it is. Barrymore decided that more than anything she wanted to be appropriate. Having been a washed-up child actress; a teenager who ended up in rehab; and a tabloid fodder exhibitionist with a string of male and female lovers, all of that had to go if she wanted to take her life to the next point. Her vagabond father and incapable mother were not appropriate as people or parents, but she makes the choice that she will be.</p>
+<p>The clothes stay on, the film roles become more wholesome and the behavior in public becomes more controlled. Her private life becomes private. This book and its presentation are an exercise in not shaming herself to her daughters while explaining the past to them. When they come asking questions they will get a detailed description of the lessons she has learned. With surface level descriptions of the situations she learned those lessons from.</p>
+<p>The strategy here is to not let her children get away with any of the things she got away with. Believing she should never have been in those situations in the first place.</p>
+<p><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e95d1506200b-pi"><img alt="Wildflower11" class="asset  asset-image at-xid-6a00d834519dbf69e20263e95d1506200b img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e95d1506200b-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Wildflower11" /></a><br />&#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 01:54 AM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/08/wildflower.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.storagezilla.xyz/storagezilla/2020/08/wildflower.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Fwildflower.html&text=Wildflower" target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Fwildflower.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">August 16, 2020</h2>
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e2026be408e442200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/talking-to-terrorists-how-to-end-armed-conflicts.html">Talking to Terrorists: How to End Armed Conflicts</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Another staycation day, another book from the unread pile bites the dust. This time it was a deep dive into armed conflict resolution in <a href="https://www.amazon.co.uk/Talking-Terrorists-How-Armed-Conflicts/dp/0099575868/ref=sr_1_1?crid=10ZZPC9W1ICWQ&amp;dchild=1&amp;keywords=talking+to+terrorists&amp;qid=1597529466&amp;s=books&amp;sprefix=Talking+to+Terroris%2Caps%2C136&amp;sr=1-1">Talking to Terrorists: How to End Armed Conflicts.</a></p>
+<p>Jonathan Powell, chief of staff to former British Prime Minister Tony Blair, is one of the clearest thinkers on negotiation with armed groups that I’ve read. That said, his writing here is a slog to get through. The book is anecdote rich and upfront that negotiation is an art rather than a science but this could have been leaner and more readable if his insights were not buried deep inside the examples.</p>
+<p>To Powell there is no conflict so insoluble that it cannot be unlocked through talking. He points out that Governments always talk to terrorists, even when they say they do not or will not. Negotiations resulting from these talks might fail, but any progress can be built on incrementally. A failure today, yesterday, and last year does not preclude success tomorrow or in five years.</p>
+<p>It was negotiation that brought a peaceful end to the apartheid state of South Africa. Negotiation created a peaceful settlement in Northern Ireland, it brought about the disbanding of ETA in Spain and FARC in Columbia. The road to these solutions only revealed itself when both sides, no matter how distasteful they found one another, talked in private.</p>
+<p>Opening with a discussion of what we understand to be modern terrorism, with no pride do I mention he states it was developed by the Irish, it is Powell’s belief that the path to peaceful resolution always starts with private talks.</p>
+<p>Over the course of the book he builds a convincing argument that this is the case, engaging with the counter arguments around never negotiating until terrorists are about to be annihilated.&#0160;It is Powell’s assertion that time again a new terrorist threat emerges and it never reaches the point of collapse governments like to think it has. Security, military and technological solutions are deployed to combat the terrorists and while a lot of people die none of those solutions solve the problem. The terrorism mutates and carries on as the terrorist acts are the most visible symptom of another underlying set of problems. &#0160;</p>
+<p>This book was published seven years ago but it is the author’s conclusion that to make progress on the dissolution any armed group, be their doctrine what the West would call rational or apocalyptic, you have to sit down with them. All terrorist groups begin with unreasonable demands, even the ones that state their ambition is to wipe out a competing ideology entirely. What matters in the end is the terrorists ability to park the extreme position and talk about on everything else around it. It is there the path forward to peace begins.</p>
+<p>Overall, an interesting read but hard work to dig through.</p>
+<p><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e2026bde8a1f78200c-pi"><img alt="Talking1" class="asset  asset-image at-xid-6a00d834519dbf69e2026bde8a1f78200c img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e2026bde8a1f78200c-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Talking1" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 01:05 AM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/08/talking-to-terrorists-how-to-end-armed-conflicts.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.storagezilla.xyz/storagezilla/2020/08/talking-to-terrorists-how-to-end-armed-conflicts.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Ftalking-to-terrorists-how-to-end-armed-conflicts.html&text=Talking%20to%20Terrorists%3A%20How%20to%20End..." target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Ftalking-to-terrorists-how-to-end-armed-conflicts.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">August 14, 2020</h2>
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e2026bde89be38200c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/sumner-redstone-the-king-of-content.html">Sumner Redstone: The King of Content</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><em>My plans for the current staycation are to put a dent in the unread book pile. The first book out was timely since the subject died this week.&#0160;</em></p>
+<p>Recently departed media mogul, Sumner Redstone, was an uncompromising man. <a href="https://www.amazon.com/King-Content-Redstones-Everlasting-Control/dp/0062654098">The King of Content by Keach Hagey</a> covers Sumner’s early life and business moves but has enough about his tumultuous personal life to be gossipy.</p>
+<p>The advantage of the gossip is that this book reads better than a set of business cases, which it could have been as there are remarkable successes and crushing failures in the deals he made throughout his life. Covering Redstone’s early days, we find a mob connected father and a neurotic mother nurturing Sumner’s formidable intellect. This intellect was welded to a ruthless competitive streak and the combination of both proved to be explosive.</p>
+<p>Powering him through the most prestigious school in Boston and into Harvard in short order Redstone breaks Japanese codes during World War II; becomes disillusioned with practising law; side-lines his brother to take over the family drive-in movie business; and then wages all-out war against other media companies.</p>
+<p>Scooping up Viacom, MTV Networks and CBS Redstone consolidated several prestigious media assets under his control. Control being Redstone’s internal drive. Business associates and family members whom he cannot control are discarded. Sometimes with regret, but not too much regret. Redstone cries a lot as he’s sticking the knife into a family member or a long-time business associate, but he never cries for too long.</p>
+<p>The arc of Redstone’s media empire follows the arc of his life. As he began to physically decline so did his investments. Mistakes were made. There was an obsession with videogame studio Midway and after investing $800 million in the beleaguered company it was sold for $100,000 and the investment written off when it was clear Midway could not be turned around by his team.</p>
+<p>Viacom passed on acquiring Marvel, with whom their studio Paramount had the original distribution deal for the Marvel cinematic universe. That was a costly mistake when in subsequent years Paramount released box office bombs while Disney made billions from the Avengers.</p>
+<p>The decline was not just financial. Redstone was a man of voracious sexual appetite and it is a matter of record that he left sexually explicit voicemails recounting a foursome he had the night before with the legendary Hollywood producer Robert Evans and two women. He would have been 90 at the time and a daily user of Viagra.</p>
+<p>Throw in numerous inter-family power struggles for control of the fortune, an old man with a string of young gold-digging girlfriends, everyone getting slapped with lawsuits and you have an accurate synopsis of his final years.</p>
+<p>Every good story needs a hero and in this story his daughter, Shari, has been cast in that role. She battles not only her father, his string of girlfriends and his sycophants but also the Board of Directors at Viacom and CBS. After all the bloodletting she stands victorious a top a pile of corpses and has as much control over the now merged ViacomCBS as her father ever had.</p>
+<p>Sumner frequently stated that his ambition was to live forever and never carve up the Empire he had built. It strikes me that his daughter is much more pragmatic and for her corporation, ViacomCBS, to survive it will have to buy other companies or itself be sold to someone larger.</p>
+<p>&#0160;Either way as in business and in life, control over others or yourself doesn’t last forever.</p>
+<p style="text-align: left;"><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e2026be4087f2d200d-pi"><img alt="Redstone-1" class="asset  asset-image at-xid-6a00d834519dbf69e2026be4087f2d200d img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e2026be4087f2d200d-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Redstone-1" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 03:02 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/08/sumner-redstone-the-king-of-content.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.storagezilla.xyz/storagezilla/2020/08/sumner-redstone-the-king-of-content.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Fsumner-redstone-the-king-of-content.html&text=Sumner%20Redstone%3A%20The%20King%20of%20Content" target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F08%2Fsumner-redstone-the-king-of-content.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">June 09, 2020</h2>
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e20264e2e19f04200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/06/the-age-of-arm.html">The Age of ARM</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><span style="font-family: georgia, palatino;">Doing your own software and your own silicon is back in computing style again. Apple have been moving towards releasing ARM powered Macs running on their in house designed processors for a while now. Off your desktop and into the cloud, AWS is on its second iteration of its ARM based Graviton server processor.</span></p>
+<p><span style="font-family: georgia, palatino;">The original Graviton processor was a 16nm part consisting of 5 billion transistors. The Graviton 2 is a 7nm part, with 30 billion transistors delivering a performance increase of 7x over the first-generation part. There are 4000 pins on the back of the processor package so you will not be slapping one of these into a motherboard you own. Though that is more down the fact that current consumer motherboards use contact patches and not pins, but still, there is a lot on that Graviton 2 processor die.</span></p>
+<p><span style="font-family: georgia, palatino;">The economic drivers of doing the whole thing in house might be the same for both companies. The price/performance ratio for AWS Graviton 2 instances running Linux is notable, but in Apple’s case this represents Apple walking away from Intel. 14 years after they walked towards them.</span></p>
+<p><span style="font-family: georgia, palatino;">Architecture Plan B’s are not new. Back in 1991 Windows NT was being developed for Intel x86 and MIPS. Dave Cutler, the mercurial leader of the Windows NT project, was obsessed with portability. To Cutler, Windows NT was to survive even if the hardware architecture it was built on withered. Microsoft was all in on x86 and the pull was strong to move forward just with that. Cutler, paranoid that Intel might drive itself into a ditch, ensured everyone on the NT team knew that his dev machine used a MIPS CPU.</span></p>
+<p><span style="font-family: georgia, palatino;">Not to support the MIPS version was to stand in opposition to Cutler. Woe to the developer who tried to check in some x86 specific customisation into the NT builds. Cutler would come storming out of his office and make a bee line for the developer involved. At the time, the fastest way to get the head of the largest commercial software development effort in the world, Cutler, to your desk was to flag a problem getting something written for the MIPS version.</span></p>
+<p><span style="font-family: georgia, palatino;">If you had a design problem, he would try to solve it. If you had a bug, he would test it for you. In the end MIPS was the company that drove itself into a ditch, but the portability lesson was taken to heart by other companies. Companies like NeXT, which started life on the Motorola 68000 in 1989 but in 1993 released an x86 version of NEXTSTEP and a version for SPARC and PA-RISC in 1995. &#0160;</span></p>
+<p><span style="font-family: georgia, palatino;">Apple are experts at pulling off evacuations from what they feel to be are losing prospects. They escaped the moribund PowerPC architecture with a quick transition that they started in 2006. Expect that the same bag of compiler tricks, performance profilers and verification checks as last time will be used to move from x86 to ARM.</span></p>
+<p><span style="font-family: georgia, palatino;"><strong>Before the smartphone, the future of computing was the x86 architecture. With movement towards ARM in Apple notebooks and desktops as well as the proliferation of cloud based Graviton instances we are now in the Age of ARM.</strong></span><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263ec21287c200c-pi" style="display: inline;"></a></p>
+<p style="text-align: center;"><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e94f8ac1200b-pi"><img alt="Jobs-x861" class="asset  asset-image at-xid-6a00d834519dbf69e20263e94f8ac1200b img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263e94f8ac1200b-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Jobs-x861" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 10:27 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/06/the-age-of-arm.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.storagezilla.xyz/storagezilla/2020/06/the-age-of-arm.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F06%2Fthe-age-of-arm.html&text=The%20Age%20of%20ARM" target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F06%2Fthe-age-of-arm.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-storagezilla entry-type-post entry" id="entry-6a00d834519dbf69e20263ec20f1f5200c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.storagezilla.xyz/storagezilla/2020/06/hitmaker.html">Hitmaker</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Some people are just hitmakers. When it comes to microprocessors, Jim Keller, is a hitmaker. Having worked on the AMD Athlon he drove a sword into Itanium with the K8 x86-64 bit architecture before leaving AMD for new opportunities.</p>
+<p>There was a route through PA-Semi (Apple’s processor acquisition) before a boomerang back to AMD to work on Zen. Zen and its successors are also hits, so much so that AMD is on track to reach the heady height of 20% desktop/notebook CPU marketshare. Something they last did two decades ago back in the Athlon days.</p>
+<p>Unlike the Athlon, where PC enthusiasts and budget conscious consumers sought out those processors, the new new thing is the growing AMD server CPU business. Years ago AMD failed to crack the fortress built of market development funds that Intel placed around the tin benders of the server business. That crimped AMD&#39;s server growth even when they had a winning line of chips.</p>
+<p>In the age of hyperscale providers, where offering multiple CPU types is seen as advantageous to consumers, this type of fortress is a remnant of a bygone age.</p>
+<p>Intel’s server CPU business has long been a jealously guarded high margin treasure but now AMD have shown up to make off with some of it. AMD started at 1% server CPU market share in 2017 and have grown to 8% in two years. Could they slice off 10 or 20% of the server market? It’s possible.</p>
+<p>One minor wrinkle in all this is after bouncing around Tesla for a split second Jim Keller took a new job.</p>
+<p>At Intel.</p>
+<p>One of the people who dynamited Intel’s most high profile failure is now working to restart their invention engine.</p>
+<p><strong>Lets see if a tired old chip maker has one more hit left in them.</strong></p>
+<p><a class="asset-img-link" href="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263ec20f21d200c-pi"><img alt="Amd_epyc" class="asset  asset-image at-xid-6a00d834519dbf69e20263ec20f21d200c img-responsive" src="https://www.storagezilla.xyz/.a/6a00d834519dbf69e20263ec20f21d200c-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="Amd_epyc" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 02:49 AM </span> <span class="separator">|</span> <a class="permalink" href="https://www.storagezilla.xyz/storagezilla/2020/06/hitmaker.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.storagezilla.xyz/storagezilla/2020/06/hitmaker.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-twitter">
+     <a href="https://twitter.com/share?url=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F06%2Fhitmaker.html&text=Hitmaker" target="_blank"><img src="/.shared/images/circle-twitter.png" alt="Twitter" /></a>
+</span> <span class="separator">|</span> <span class="entry-footer-links-plusone"></span> <span class="separator">|</span> <span class="entry-footer-links-pinterest">
+     <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','https://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/.shared/images/circle-pinterest.png" alt="Pinterest" /></a>
+
+</span> <span class="separator">|</span> <span class="entry-footer-links-facebook_like">
+     
+     <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.storagezilla.xyz%2Fstoragezilla%2F2020%2F06%2Fhitmaker.html" target="_blank"><img src="/.shared/images/circle-facebook.png" alt="Facebook" /></a>
+     
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://www.storagezilla.xyz/storagezilla/page/2/"><span class="pager-label">Older Posts</span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+        
+
+
+
+                                                </div>
+                                        </div>
+                                        <div id="beta" class="well col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                                <div id="beta-inner" class="pkg">
+                                                        <!-- sidebar -->
+
+
+<!-- list_inlcude.tt  -->
+<div id="to_start_with" class="module-typelist module">
+<h2 class="module-header">To start with</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note-label">Disclaimer</div><div class="typelist-note">The opinions expressed here are my personal opinions.
+(It's all me, baby.)</div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+	<div class="module-archives module">
+		<h2 class="module-header">Recent Posts</h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/09/eccentric-orbits-the-iridium-story.html">Eccentric Orbits: The Iridium Story</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/09/oathbringer-book-3-of-the-stormlight-archive.html">Oathbringer. Book 3 of the Stormlight Archive</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/fame-in-the-20th-century.html">Fame in the 20th Century</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/samsung-rising.html">Samsung Rising</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/im-thinking-of-ending-things.html">I’m Thinking of Ending Things</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/wildflower.html">Wildflower</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/talking-to-terrorists-how-to-end-armed-conflicts.html">Talking to Terrorists: How to End Armed Conflicts</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/08/sumner-redstone-the-king-of-content.html">Sumner Redstone: The King of Content</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/06/the-age-of-arm.html">The Age of ARM</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.storagezilla.xyz/storagezilla/2020/06/hitmaker.html">Hitmaker</a></li>
+					
+				
+			</ul>
+		</div>
+	</div>
+<!-- list_inlcude.tt  -->
+<div id="music_im_listening_to" class="module-typelist module">
+<h2 class="module-header">Music I'm listening to</h2>
+	<div class="typelist-thumbnailed module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/B07BSXQW8G?tag=typepad0c2-20" ><img alt="LUMP - " src="https://a1.typepad.com/6a00d834519dbf69e20240a48b1f41200d-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/B07BSXQW8G?tag=typepad0c2-20" >LUMP: LUMP</a></p></li>
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/B06XS2F7D3?tag=typepad0c2-20" ><img alt="Perfume Genius - " src="https://a5.typepad.com/6a00d834519dbf69e20240a4af982d200b-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/B06XS2F7D3?tag=typepad0c2-20" >Perfume Genius: No Shape</a></p></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="books_im_reading" class="module-typelist module">
+<h2 class="module-header">Books I'm reading</h2>
+	<div class="typelist-thumbnailed module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/1847926053?tag=typepad0c2-20" ><img alt="Robert A Caro: Working: Researching, Interviewing, Writing" src="https://a5.typepad.com/6a00d834519dbf69e20240a48b1f0d200d-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/1847926053?tag=typepad0c2-20" >Robert A Caro: Working: Researching, Interviewing, Writing</a></p></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="stuff_im_watching" class="module-typelist module">
+<h2 class="module-header">Stuff I'm watching</h2>
+	<div class="typelist-thumbnailed module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/B07GGPNXQ5?tag=typepad0c2-20" ><img alt=": The Expanse" src="https://a3.typepad.com/6a00d834519dbf69e20240a48b1f7b200d-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/B07GGPNXQ5?tag=typepad0c2-20" >The Expanse</a></p></li>
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/B07KGK9L8N?tag=typepad0c2-20" ><img alt=": Killing Eve" src="https://a7.typepad.com/6a00d834519dbf69e20240a48b1f57200d-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/B07KGK9L8N?tag=typepad0c2-20" >Killing Eve</a></p></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="games_im_playing" class="module-typelist module">
+<h2 class="module-header">Games I'm playing</h2>
+	<div class="typelist-thumbnailed module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-thumbnail"><a href="https://www.amazon.com/dp/B07BS73N8T?tag=typepad0c2-20" ><img alt=": DRAGON QUEST XI: Echoes of an Elusive Age" src="https://a3.typepad.com/6a00d834519dbf69e20240a48b1fab200d-75hi" /></a></div><p class="typelist-description"><a href="https://www.amazon.com/dp/B07BS73N8T?tag=typepad0c2-20" >DRAGON QUEST XI: Echoes of an Elusive Age</a></p></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- about page link -->
+<div class="module-about module">
+	<h2 class="module-header"><a
+		href="https://www.storagezilla.xyz/about.html">About</a></h2>
+</div>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+</div> <!-- row -->
+                        
+
+
+<!-- container-footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+	<div id="footer-inner">
+		<ul class="footer-list pkg list-inline" >
+			<li class="last-footer-list-item footer-list-item"><a href="http://storagezilla.typepad.com/storagezilla/">Storagezilla</a></li>
+		</ul>
+	</div>
+</div></div>
+</div>
+
+                </div>
+        </div>
+        
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="/.shared/themes/common/bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+     function autocollapse() {
+        var navbar = jQuery('#autocollapse'); navbar.removeClass('collapsed');
+            if(navbar.innerHeight() > 50) {
+               navbar.addClass('collapsed');
+               $('.navbar button').css("visibility","visible");
+             }
+     }
+autocollapse();
+
+$('.navbar-nav,.navbar-header').fadeIn('slow');
+jQuery(window).on('resize', autocollapse);
+</script>
+
+
+
+
+
+<script type="text/javascript">
+function resizebanner() {
+     var $div = $('#banner');
+     bg = $div.css('background-image');
+       if (bg) {
+         var src = bg.replace(/(^url\()|(\)$|[\"\'])/g, '');
+           $img = $('<img>').attr('src', src).on('load', function() {
+              var img = new Image;
+              img.src = src;
+              var imgW = img.width;
+              var imgH = img.height;             
+              var newW = $('#banner').width();
+              var newH = imgH / imgW * newW;
+       $('#banner').height(newH);
+       $('#banner').css('visibility', 'visible');
+      });//end when loaded
+  }//end if bg
+}//end 
+    (function($) {
+       $(document).on('ready', resizebanner);
+       $(window).on('resize', resizebanner);
+    })(jQuery);
+</script>
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=1229610&amp;user_id=2297520&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- ph=1 -->
